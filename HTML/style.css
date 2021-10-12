@@ -1,0 +1,95 @@
+body {
+ background-image: url("img/beachPicture.jpg");
+} 
+
+.flower {
+	width:200px;
+	height: 200px;
+}
+
+.blockOne {
+	margin-top: 30px;
+	width:100%;
+	height: 50px;
+	
+}
+
+a {
+	color: white;
+	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+	font-size: 25px;
+	list-style: none;
+	float: right;
+	margin-right: 50px;	
+	text-shadow: 2px 2px 4px #000000;
+}
+
+h1 {
+	font-family: 'Allura';
+	font-size: 90px;
+	font-weight: bold;
+}
+span {
+	font-family: 'Dekko';
+	font-size: 50px;
+}
+
+img {
+	width: 100%;
+	height: 100%;
+}
+
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  
+  margin-top: 20px;
+  font-size: 25px;
+  color: white;
+}
+
+.imageOne {
+  position: relative;
+  text-align: center;
+  color: white;
+  
+}
+
+#wedding {
+	width: 400px;
+	height: 500px;
+	
+}
+.container {
+	margin: auto;
+	margin-top: 100px;
+	width:100%;
+	min-height: 100%;
+	
+	
+}
+
+.contact {
+	white-space: pre;
+	margin-right:550px;
+	text-align: center;
+	font-size: 27px;
+	font-family: 'B612 Mono';
+}
+
+.service {
+	white-space: pre;
+	margin-right:250px;
+	text-align: center;
+	font-size: 27px;
+	font-family: 'B612 Mono';
+}
+
+p {
+	white-space: pre;
+	margin-right:550px;
+	text-align: center;
+	font-size: 27px;
+	float: left;
+}
